@@ -1,0 +1,5 @@
+# no DB files
+*.sqlite3
+
+# no __pycache__
+__pycache__/

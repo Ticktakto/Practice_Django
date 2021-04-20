@@ -1,5 +1,6 @@
 # no DB files
 *.sqlite3
+.DS_Store
 
 # no __pycache__
 __pycache__/
